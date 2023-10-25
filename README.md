@@ -2,9 +2,9 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 
-> An AI-based text improvement tool built in Flutter, powered by GPT.
+> An AI-based text enhancement tool built in Flutter, powered by GPT.
 
-The _AI Text Improver_ app is a handy Flutter application that allows you to enhance your text messages by providing various tones such as casual, formal, friendly, and more. It leverages the power of GPT (Generative Pre-trained Transformer) as a service to offer you improved versions of your text.
+The _Texto_ app is a handy Flutter application that allows you to enhance your text messages by providing various tones such as casual, formal, friendly, and more. It leverages the power of GPT (Generative Pre-trained Transformer) as a service to offer you enhanced versions of your text.
 
 ## Installation and Setup
 
