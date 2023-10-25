@@ -1,4 +1,4 @@
-# Texto Text Improver for android and ios 
+# Texto AI Text Enhancer for android and ios 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 
@@ -18,17 +18,4 @@ To run the app, you need to have Flutter and Dart installed on your system. Plea
 
 Make sure you have the latest version of Flutter and Dart installed to avoid any compatibility issues.
 
-## License
-
-This app is licensed under the MIT License. You can view, modify, and use the source code for your own projects. A copy of the license can be found in the [LICENSE](LICENSE) file.
-
-## Gallery
-
-<p float="left">
-    <kbd><img src="images/0.png" width="250" /></kbd>
-    <kbd><img src="images/1.png" width="250" /></kbd>
-    <kbd><img src="images/2.png" width="250" /></kbd>
-    <kbd><img src="images/3.png" width="250" /></kbd>
-    <kbd><img src="images/4.png" width="250" /></kbd>
-    <kbd><img src="images/5.png" width="250" /></kbd>
-</p>
+## Work in Progress...
